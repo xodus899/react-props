@@ -13,7 +13,7 @@ function App() {
       />
       <ContactCard
         name="Tiger"
-        img="https://picsum.photos/200"
+        img="https://picsum.photos/200/?grayscale"
         tel="234 567 8901"
         email="theTiger@mail.com"
       />
