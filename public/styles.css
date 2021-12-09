@@ -1,3 +1,8 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .contacts h1 {
   text-align: center;
 }
