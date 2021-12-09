@@ -1,0 +1,10 @@
+.contacts h1 {
+  text-align: center;
+}
+
+.eachContact {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  margin: 1.3%;
+}
